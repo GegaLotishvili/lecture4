@@ -1,0 +1,49 @@
+.container {
+	width: 1170px;
+	margin: auto;
+}
+
+h3 {
+	font-family: roboto 400;
+	font-size: 24px;
+	color: #000000;
+	margin-bottom: 30px;
+}
+
+h4 {
+	color: #3D58A6;
+	font-family: roboto 400;
+	font-size: 22px;
+	margin: 13px 270px 13px 20px;
+}
+
+.leftcard, .rightcard {
+	width: 570px;
+	height: 225px;
+	background-color: #F2F2F2;
+	display: inline-block;
+}
+
+.leftcard {
+	margin-right: 25px;
+}
+
+.yellowcard {
+	width: 100px;
+	height: 120px;
+	background-color: yellow;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 60px 0 40px;
+
+}
+
+p {
+	display: inline-block;
+	width: 355px;
+	vertical-align: middle;
+	font-family: roboto 400;
+	font-size: 20px;
+}
+
+
